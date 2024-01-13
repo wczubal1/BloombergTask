@@ -1,4 +1,4 @@
-Instrument,Company Name,TRBC Business Sector Name,Company Market Cap,Credit Combined PD (%),Return On Assets - Actual,Total Debt to Common Equity,Price Momentum T12M Volatility
+Instrument,CompanyName,BusinessSector,CompanyMarketCap,CreditCombinedPD,ReturnOnAssets,TotalDebttoCommonEquity,PriceMomentumT12MVolatility
 TXG.OQ,10X Genomics Inc,Healthcare Services & Equipment,5554622160.99,0.083735,-16.21,,14.111801
 FCNCA.OQ,First Citizens BancShares Inc (Delaware),Banking & Investment Services,20057742142.84,0.251288,1.01,0.92905,24.651832
 ME.OQ,23andMe Holding Co.,Healthcare Services & Equipment,339253935.3955,0.235883,-29.76,,14.719923
